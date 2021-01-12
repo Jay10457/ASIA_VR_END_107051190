@@ -1013,6 +1013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c09989d84224cf42a1faa7f2c5c97c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prefab: {fileID: 2313097596899925892}
   ani: {fileID: 8703377919999066349}
 --- !u!1 &2313584720034716565
 GameObject:
