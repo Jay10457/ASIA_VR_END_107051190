@@ -9,10 +9,10 @@ public class Santa : MonoBehaviour
 
     public void OnPick()
     {
-        if (prefab.transform.position.y > 10f)
-        {
-            ani.SetBool("IsFloating", true);
-        }
+       
+        
+       ani.SetBool("IsFloating", true);
+        
             
     }
     public void DetachFromHands()
